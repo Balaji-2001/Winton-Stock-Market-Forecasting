@@ -1,5 +1,3 @@
-This is a high-quality README tailored for a GitHub repository. It emphasizes the **Production-Ready** nature of your code, your **Top 5% ranking**, and the technical depth of the project.
-
 ---
 
 # 📈 Winton Stock Market Challenge: High-Frequency Prediction
