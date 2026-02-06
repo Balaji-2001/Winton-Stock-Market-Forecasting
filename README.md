@@ -8,7 +8,7 @@ This repository contains a high-performance machine learning pipeline designed f
 
 **Performance Achievement:**
 
-* **Validation MAE:** `0.001104`**
+* **Validation MAE:** `0.001104`
 
 ## 🏗️ Technical Workflow
 
