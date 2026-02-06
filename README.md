@@ -8,8 +8,7 @@ This repository contains a high-performance machine learning pipeline designed f
 
 **Performance Achievement:**
 
-* **Validation MAE:** `0.001104`
-* **Ranking:** Top 5% Solution (Expected Kaggle LB ~1750-1760)
+* **Validation MAE:** `0.001104`**
 
 ## 🏗️ Technical Workflow
 
@@ -38,7 +37,7 @@ The model automatically ranks features based on their information gain. Below is
 ## 🛠️ Tech Stack
 
 * **Language:** Python
-* **Core Libraries:** Pandas, NumPy, Scikit-Learn
+* **Core Libraries:** Pandas, NumPy, Scikit-Learn  
 * **Visualization:** Matplotlib, Seaborn
 * **Feature Extraction:** PCA, Iterative Imputer, MultiOutput Regressor
 
